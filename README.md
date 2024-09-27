@@ -1,6 +1,7 @@
 <h1>Charting</h1>
 
 <h2>Description</h2>
+
 This project involved analyzing sales and profitability data for multiple product categories, including bicycles, helmets, and electronic devices. Two datasets were utilized: one detailing year-over-year sales for bikes and accessories, and another focused on profit margins for various DVD players.
 
 The first sheet leverages sparklines to illustrate trends in year-over-year sales for products such as bicycles, helmets, and clothing, along with a line chart to visualize overall sales trends across product categories. Conditional formatting with data bars was applied to visually highlight sales performance for each category, making it easier to compare product performance at a glance.
