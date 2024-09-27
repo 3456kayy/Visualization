@@ -6,9 +6,9 @@ This project involved analyzing sales and profitability data for multiple produc
 
 The first sheet uses sparklines to illustrate trends in year-over-year sales for products such as bicycles, helmets, and clothing, along with a line chart to visualize overall sales trends across product categories. Conditional formatting with data bars was applied to visually highlight sales performance for each category, making it easier to compare product performance at a glance.
 
-The second sheet includes a pie chart to show the proportion of total profits contributed by different DVD players, complemented by a bar chart comparing total profit, profit per unit, and total costs across various DVD player models.
+The second sheet includes calculations were performed to determine total profit, profit per unit, and total cost. A pie chart to show the proportion of total profits contributed by different DVD players, complemented by a bar chart comparing total profit, profit per unit, and total costs across various DVD player models.
 
-In addition to these visualizations, calculations were performed to determine total profit, profit per unit, and total cost, providing key insights into financial performance. The analysis offered valuable data to support strategic decision-making and optimize sales strategies.
+The analysis offered valuable data to support strategic decision-making and optimize sales strategies.
 <br />
 
 
