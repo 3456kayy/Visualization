@@ -1,7 +1,7 @@
 <h1>Charting</h1>
 
 <h2>Description</h2>
-This project demonstrates the creation of a pivot table to analyze monthly expenses across categories such as groceries, cosmetic health, and entertainment. Excel’s PivotTable functionality was used to consolidate data, summarize actual costs, benchmark budgets, and highlight discrepancies between spending and predefined budgets. Other Excel tools, like slicers were used to filter and visualize data interactively, providing deeper insights into financial trends. The analysis highlighted areas where expenses exceeded the predefined budget, such as in the cosmetic health category, offering a starting point for improving spending habits. This project showcases expertise in using Excel for data organization, financial analysis, and interactive reporting, offering critical analysis for budget control and future decision-making.
+This project involved analyzing sales and profitability data for multiple product categories, including bicycles, helmets, and electronic devices. Two datasets were utilized: one detailing year-over-year sales for bikes and accessories, and another focused-on profit margins for various DVD players. Conditional formatting was applied to create visual data representations, making it easier to compare product performance. Additionally, calculations were performed to determine total profit, profit per unit, and total cost, offering insights into financial performance. The analysis provided valuable data to support strategic decision-making and optimize sales approaches.
 <br />
 
 
@@ -11,4 +11,4 @@ This project demonstrates the creation of a pivot table to analyze monthly expen
 
 <h2>Project Attached Below:</h2>
 
-You can [download the Excel file here](Kayla%20WALKER%20Pivot-Table.xlsx).
+You can [download the Excel file here](Kayla%20Walker%20Charting.xlsx).
